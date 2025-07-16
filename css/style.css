@@ -1,0 +1,191 @@
+.d1{
+    display: flex;
+    background-image: url(../imagens/foto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20%;
+    text-align: center;
+}
+h1{
+    border: solid 2px black;
+    padding-top: 23%;
+    padding-bottom: 23%;
+    font-family: Calibri;
+    font-size: 25;
+    background-color: rgb(22, 54, 73);
+    color: white;
+}
+.img1{
+    height: 100%;
+    width: 100%;
+}
+.image1{
+    margin-top: 3%;
+    width: 25%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+}
+.image2{
+    margin-top: 3%;
+    width: 25%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+}
+.txt1{
+    margin-top: 3%;
+    width: 25%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+}
+.d2{
+    text-align: center;
+    margin-top: 5%;
+    display: flex;
+    background-image: url(../imagens/age.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 15%;
+}
+.txt2{
+    border: solid 2px rgb(10, 10, 87);
+    width: 25%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 3%;
+    margin-top: 4px;
+    padding-top: 2.5%;
+    color: rgb(10, 10, 87);
+    font-size: 50;
+    font-weight: 400;
+    font-family: calibri;
+}
+.d3{
+    margin-top: 0.5%;
+    display: flex;
+    background: #110852;
+    background: linear-gradient(24deg, rgba(17, 8, 82, 1) 10%, rgba(95, 19, 143, 1) 33%, rgba(118, 25, 176, 1) 70%, rgba(17, 8, 82, 1) 93%);
+    height: 20%;
+    text-align: center;
+}
+.image3{
+    width: 100%;
+    height: 100%;
+}
+.img2{
+    margin-top: 3%;
+    width: 20%;
+    margin-right: 5%;
+    margin-left: 8%;
+    margin-bottom: 3%;
+}
+
+.img3{
+    margin-top: 2%;
+    width: 25%;
+    margin-right: 3%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+
+.txt3{
+    border: solid 2px rgb(10, 10, 87);
+    width: 25%;
+    color: white;
+    padding-top: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 4%;
+    margin-right: 3%;
+    font-size: 50;
+    font-weight: 400;
+    font-family: calibri;    
+}
+.d4{
+    margin-top: 5px;
+    background-color: rgb(33, 67, 92);
+    height: 7%;
+    text-align: center;
+    border: solid 2px black;
+}
+h4{
+    color: white;
+    font-weight: 600;
+    font-family: calibri;
+    font-size: 50px;
+    padding-top: 8px;
+}
+
+/* exercicio02 abaixo */
+
+.principal{
+    background-image: url(../imagens/age.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.pequeno{
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 10;
+}
+
+img{
+    width: 100%;
+    margin-top: 10;
+}
+
+h5{
+    color: white;
+    font-family: calibri;
+    font-weight: 600;
+    background-color: #06627b;
+    border: solid 2px black;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-size: 20;
+}
+
+h6{
+    border: solid 4px rgb(5, 5, 71);
+    margin-top: 10;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 20;
+}
+
+/* exercicio03 abaixo */
+
+.grande1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pequeno1{
+    width: 23%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 8%;
+    background: #dac8e6;
+    background: linear-gradient(280deg, rgba(218, 200, 230, 1) 0%, rgba(57, 73, 219, 1) 21%, rgba(117, 47, 163, 1) 47%, rgba(235, 50, 26, 1) 76%, rgba(252, 176, 69, 1) 94%);
+}
+
+.foto{
+    width: 70%;
+    margin-left: 11%;
+    margin-top: 15%;
+}
+p{
+    font-family: calibri;
+    font-size: 40;
+    padding-top: 15%;
+    padding-left: 18%;
+
+}
